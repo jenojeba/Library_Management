@@ -32,3 +32,5 @@ The user can select a book, and the script will display the:
 - Account number
 - Type of the book
 
+You can read a book, borrow a book and return a book.
+
